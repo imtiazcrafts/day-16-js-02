@@ -1,0 +1,24 @@
+#light{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#light button{
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#color{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+#color button{
+    padding: 15px 30px;
+    cursor: pointer;
+}
